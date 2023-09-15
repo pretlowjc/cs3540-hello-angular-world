@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: fuchsia;
+}
+
+h2 {
+    text-align: center;
+    color: purple;
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+    border: dotted;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+article {
+    text-align: center;
+}
+
+button {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 50px auto;
+}
